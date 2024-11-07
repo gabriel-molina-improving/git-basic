@@ -1,5 +1,7 @@
 const animals = ['humans', 'pigs', 'goats', 'sheep'];
 
+// Comentario
+
 const count = animals.push('cows');
 console.log(count);
 // Expected output: 5
