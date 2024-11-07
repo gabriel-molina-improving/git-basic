@@ -1,6 +1,6 @@
 const animals = ['humans', 'pigs', 'goats', 'sheep'];
 
-// Comentario same
+// Comentario este el bueno
 
 const count = animals.push('cows');
 console.log(count);
