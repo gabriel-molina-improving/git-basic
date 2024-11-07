@@ -10,4 +10,7 @@ animals.push('chickens', 'cats', 'dogs');
 console.log(animals);
 // Expected output: Array ["humans", "pigs", "goats", "sheep", "cows", "chickens", "cats", "dogs"]
 
+// Comentario adicional
 console.log("Hello world")
+
+
